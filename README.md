@@ -1,11 +1,15 @@
 # AETHER — Hybrid RAG Platform over Niche Technical Corpora
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://kailash6207.github.io/Aether-RAG/)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?logo=next.js)](https://nextjs.org/)
 [![React Three Fiber](https://img.shields.io/badge/Three.js-R3F-blue?logo=three.js)](https://threejs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-Multi--Vector-DC2626?logo=qdrant)](https://qdrant.tech/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+🌐 **Live Website**: [https://kailash6207.github.io/Aether-RAG/](https://kailash6207.github.io/Aether-RAG/)
 
 A high-performance AI retrieval and research platform built for specialized technical literature. It combines **Dense Transformer Embeddings** (semantic generalization) with **Sparse Lexical Search** (BM25 token precision) using **Qdrant Multi-Vector** storage and **Reciprocal Rank Fusion (RRF)**.
 
